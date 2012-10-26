@@ -8,7 +8,7 @@
  *
  * Created on 19-oct-2012, 7:21:26
  */
-package Primer_Ejemplo;
+package Clase_1;
 import java.util.Scanner;
 
 /**
